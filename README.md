@@ -1,6 +1,8 @@
 # Windows ps1 to exe file converter:
 
-## Quick start (3 Steps only):
+<details>
+  <summary><b>Quick start (3 Steps only):</b></summary>
+  <br>
 
 **Step 1: On Windows, open PowerShell and run:**
 
@@ -20,6 +22,10 @@ Set-ExecutionPolicy -ExecutionPolicy Bypass -Scope Process
 ```powershell
 Invoke-ps2exe .\<name>.ps1 .\<name>.exe
 ```
+
+</details>
+
+---
 
 # Windows exe file Icon change:
 
@@ -53,4 +59,4 @@ https://image.online-convert.com/convert-to-ico
 
 **You can use other image to ico online converter tool too**
 
-
+---
