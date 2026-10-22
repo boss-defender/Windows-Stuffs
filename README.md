@@ -1,5 +1,6 @@
 # Windows ps1 to exe file converter:
 
+**Download and use `ps2exe.bat` or,**
 <details>
   <summary><b>Quick start (3 Steps only):</b></summary>
   <br>
