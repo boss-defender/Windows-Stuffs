@@ -53,6 +53,9 @@ Invoke-ps2exe .\<name>.ps1 .\<name>.exe
 
 > **You will get main.exe with image**
 
+</details>
+
+  
 **For image to ico format , visit here:**
 
 https://image.online-convert.com/convert-to-ico
@@ -60,3 +63,23 @@ https://image.online-convert.com/convert-to-ico
 **You can use other image to ico online converter tool too**
 
 ---
+
+# Windows admin bypass:
+
+*Link 1 >*  [Hacker_Loi](https://youtu.be/0g2pG0_lnd8?si=WKMcGdm-MkOwRRMh)
+
+*Link 2 >*  [Ebola_Man](https://youtu.be/f6TVqLSYcxE?si=ciPMWSDMhftWK3BK)
+
+*Link 3 >*  [Ebola_Man_Github](https://github.com/EbolaMan-YT/UAC-Bypass-v2.git)
+
+**Check for latest update in github, by searching other repo in his github**
+
+<details>
+  <summary><b>Hacker_Loi Method:</b></summary>
+  <br>
+  
+> **Download Hacker_loi_UAC_Bypass.bat & edit it> replace `<application>.exe` to real applications name.**
+
+> **& Double click the bat.** 
+
+</details>
