@@ -84,3 +84,29 @@ https://image.online-convert.com/convert-to-ico
 > **& Double click the bat.** 
 
 </details>
+
+# c-cpp2exe.bat has many issues
+
+<details>
+  <summary><b>If you still use :</b></summary>
+  <br>
+  
+**Wait untill it auto close the terminal without making exe**
+
+**At least `c-cpp2exe.bat` can download and install dependencies automatically**
+
+**After terminal auto close, open powershell in the direcotory where <name>.cpp / <name>.c exist, >** *open terminal here*
+
+*then try in powershell:*
+
+```bash
+$env:Path = "C:\msys64\ucrt64\bin;$env:Path"
+```
+
+*then*
+
+```bash
+g++ .\boss.cpp -O2 -o .\boss.exe
+```
+
+</details>
