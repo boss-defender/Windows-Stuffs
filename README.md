@@ -97,7 +97,11 @@ https://image.online-convert.com/convert-to-ico
 
 **& boom! You got the exe file**
 
-**However, previous c-cpp2exe.bat has several issues , to solve them**
+**However, previous c-cpp2exe.bat has several issues**
+
+<details>
+  <summary><b>To solve them</b></summary>
+  <br>
 
 **After terminal auto close, open powershell in the direcotory where <name>.cpp / <name>.c exist, >** *open terminal here*
 
@@ -112,5 +116,6 @@ $env:Path = "C:\msys64\ucrt64\bin;$env:Path"
 ```bash
 g++ .\boss.cpp -O2 -o .\boss.exe
 ```
+</details>
 
 </details>
