@@ -85,15 +85,19 @@ https://image.online-convert.com/convert-to-ico
 
 </details>
 
-# c-cpp2exe.bat has many issues
+# c-cpp2exe.bat updated,
 
 <details>
-  <summary><b>If you still use :</b></summary>
+  <summary><b>It now can now convert c/cpp to exe :</b></summary>
   <br>
   
-**Wait untill it auto close the terminal without making exe**
+**You need to make compatible c/cpp file for windows library**
 
-**At least `c-cpp2exe.bat` can download and install dependencies automatically**
+**You can drag it to terminal**
+
+**& boom! You got the exe file**
+
+**However, previous c-cpp2exe.bat has several issues , to solve them**
 
 **After terminal auto close, open powershell in the direcotory where <name>.cpp / <name>.c exist, >** *open terminal here*
 
