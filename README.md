@@ -119,3 +119,6 @@ g++ .\boss.cpp -O2 -o .\boss.exe
 </details>
 
 </details>
+
+# I don't know why but windows defender can detect malware.exe if it is compiled from cpp
+# But exe compiled from ps1 script is undetected
